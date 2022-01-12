@@ -1,0 +1,6 @@
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\bin\Debug\netcoreapp3.1\JsonTest.exe
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\obj\Debug\netcoreapp3.1\JsonTest.csprojAssemblyReference.cache
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\obj\Debug\netcoreapp3.1\JsonTest.AssemblyInfoInputs.cache
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\obj\Debug\netcoreapp3.1\JsonTest.AssemblyInfo.cs
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nhoofy\source\repos\JsonTest\JsonTest\obj\Debug\netcoreapp3.1\JsonTest.csproj.CopyComplete
